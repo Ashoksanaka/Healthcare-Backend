@@ -60,3 +60,6 @@ python manage.py runserver
 - `patients/` - Manages patient-related data and APIs
 - `mappings/` - Handles data mappings and relationships between entities
 - `healthcare/` - Project settings and configuration
+
+
+⚠️ Note: The API endpoints have been successfully tested using Postman API tool.
